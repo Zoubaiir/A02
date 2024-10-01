@@ -51,3 +51,40 @@ VS Code works with HTML out of the box, but there are a few useful extensions to
 
 ### Step 6: Start Coding
 Now you can start adding more HTML elements, experimenting with CSS, and building web pages!
+
+### Glossary
+1. **Branch** -
+A separate version of the project where you can develop features without affecting the main code.
+
+2. **Clone** - 
+A local copy of a remote Git repository.
+
+3. **Commit** - 
+A saved snapshot of changes in the project.
+
+4. **Fetch** - 
+Retrieves changes from a remote repository without merging them.
+
+5. **Git** - 
+A system for tracking changes in code and collaborating on development.
+
+6. **GitHub** - 
+A platform for hosting and sharing Git repositories.
+
+7. **Merge** - 
+Combining changes from one branch into another.
+
+8. **Merge Conflict** - 
+A problem that occurs when changes in different branches overlap and Git can’t automatically merge them.
+
+9. **Push** - 
+Sending your local changes to a remote repository.
+
+10. **Pull** - 
+Fetching and merging changes from a remote repository into your local branch.
+
+11. **Remote** - 
+A version of your repository stored on a server, usually on platforms like GitHub.
+
+12. **Repository** - 
+A storage space where your project files and their version history are kept.
